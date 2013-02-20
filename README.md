@@ -1,4 +1,4 @@
 PostToFacebook-Demo
 ===================
 
-How to post to user Facebook Wall in iOS 4 &amp; 5 – Easy Mode
+The post explaining how to use this code can be found at: http://www.guilmo.com/how-to-post-to-facebook-easy-mode
